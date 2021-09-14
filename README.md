@@ -3,15 +3,6 @@ MRK Diagrammer
 
 MRK Diagrammer is a web app which allows for a team to collaborate in creating, editing and sharing of Modernized Reed-Kellogg syntax diagrams. 
 
-Demo
-----
-
-View a live demo of MRK Diagrammer in action at 
-
-http://joshreed.github.io/jQuery-ScrollTabs/
-
-Registration and logging-in is required.
-
 Install
 -------
 
